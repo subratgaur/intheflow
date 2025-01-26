@@ -1,1 +1,0 @@
-fn(actix_web::web::Data<async_graphql::Schema<{type error}, {type error}, {type error}>>, GraphQLRequest) -> impl std::future::Future<Output = GraphQLResponse> {graphql_handler}
